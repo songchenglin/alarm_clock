@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+
 typedef void (*lcd_disp_cb_type)(void);
 enum running_state {
 	NORMAL_STATE,
